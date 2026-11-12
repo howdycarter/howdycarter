@@ -4,8 +4,7 @@
 trust — interfaces that show the machine's confidence, evidence, and limits
 before a human acts on them.
 
-Founder of [Newton & Carter LLC](https://newtonandcarter.com) — a founder-led
-Texas studio for AI solutions, software design & development, and
+Founder of [Newton & Carter LLC](https://newtonandcarter.com) — a Texas firm for AI solutions, software design & development, and
 human-machine teaming, serving federal missions and modernizing businesses.
 
 ## What I'm building
@@ -16,6 +15,9 @@ human-machine teaming, serving federal missions and modernizing businesses.
   reliability), contradiction flags, and accept/override controls with a
   forensic action log. A Glass-Box / Black-Box toggle isolates what
   transparency itself does to operator trust. Synthetic data; independent R&D.
+
+Read the firm's [AI search and chatbot evaluation guide](https://newtonandcarter.com/resources/ai-evaluation)
+for a practical approach to evidence, human review, and prompt-injection testing.
 
 ## Selected results (prior roles)
 
